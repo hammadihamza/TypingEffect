@@ -1,1 +1,2 @@
 # TypingEffect
+only Using CSS 
